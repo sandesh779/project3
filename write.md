@@ -1,4 +1,4 @@
-# Palyndrome check
+# Palyndrome check code
     #include<stdio.h>  
     int main()    
     {    
